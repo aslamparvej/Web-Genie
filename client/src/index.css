@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-secondary-500: #090909;
+    --color-secondary-400: #101010;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #FFF;
+}
