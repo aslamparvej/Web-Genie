@@ -7,7 +7,7 @@ const Register = () => {
           routing="path"
           path="/register"
           signInUrl="/login"
-          afterSignUpUrl="/dashboard"
+          forceRedirectUrl="/dashboard"
         />
     </div>
   )
